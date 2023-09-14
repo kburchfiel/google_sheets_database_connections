@@ -8,7 +8,7 @@ test score data; however, you can also connect to an online database using
 SQLalchemy. See my Python Database Utilities repository (available at 
 https://github.com/kburchfiel/python_database_utilities) for examples.'''
 
-'''More documentation will be provided in the future. I will probably also
+'''More documentation may be provided in the future. I will probably also
 convert the .py file to an .ipynb file for easier readability.'''
 
 import sqlite3
